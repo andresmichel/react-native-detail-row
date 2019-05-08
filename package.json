@@ -1,0 +1,24 @@
+{
+  "name": "react-native-detail-row",
+  "version": "0.2.0",
+  "description": "React Native ",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "detail",
+    "row"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-detail-row",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
